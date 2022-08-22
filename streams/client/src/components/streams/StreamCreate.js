@@ -1,7 +1,7 @@
 import React from "react";
 
 const StreamCreate = () => {
-  <div>StreamCreate</div>;
+  return <div>StreamCreate</div>;
 };
 
 export default StreamCreate;
